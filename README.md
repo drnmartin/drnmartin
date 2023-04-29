@@ -8,5 +8,5 @@
 
 - 🔭 I’m currently working on HyperionDev Data Science Bootcamp.
 - 🌱 I’m currently learning python, machine learning and data science.
-- I'm planning on moving onto learning MySQL and JavaScript.
+- 🌳 I'm planning on moving onto learning MySQL and JavaScript.
 - 📫 How to reach me: Leave an issue on my repo.
