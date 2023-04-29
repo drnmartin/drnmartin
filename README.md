@@ -1,4 +1,4 @@
-![Banner Image](github_banner3.png)
+![Banner Image](github_banner4.jpg)
 
 
 ### Welcome to my GitHub Portfolio. 👋
