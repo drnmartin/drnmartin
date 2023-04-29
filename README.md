@@ -1,7 +1,5 @@
 ![Banner Image](github_banner4.jpg)
 
-
-### Welcome to my GitHub Portfolio. 👋
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=drnmartin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drnmartin&layout=compact&theme=transparent&hide_border=true&langs_count=10" /></a>
