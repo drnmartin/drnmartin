@@ -1,4 +1,5 @@
-![Uploading pawel-czerwinski-z7prq6BtPE4-unsplash ORIGINAL SIZE.jpg…]()
+![pawel-czerwinski-z7prq6BtPE4-unsplash ORIGINAL SIZE](https://user-images.githubusercontent.com/129542573/235295470-deb4af7e-2201-4c0e-8e6c-d0072bb4bac8.jpg)
+
 
 ### Welcome to my GitHub Portfolio. 👋
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=drnmartin&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
